@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-https://github.com/new
+Sample repo for the assignment.
